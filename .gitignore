@@ -1,0 +1,14 @@
+.venv
+.tox
+
+__pycache__
+.cache
+.pytest_cache
+.mypy_cache
+
+.coverage
+coverage.*
+
+test-reports
+
+*.db
